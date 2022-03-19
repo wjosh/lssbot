@@ -1,0 +1,125 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "LSS Guides",
+          "weight": "bold",
+          "size": "xxl",
+          "margin": "md"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "xxl",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Doomsday/Eden",
+                  "size": "lg",
+                  "color": "#555555",
+                  "flex": 0,
+                  "weight": "bold"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "How to boost honor",
+                    "uri": "https://lss-guide.netlify.app/docs/doomsday/honor/slug/"
+                  },
+                  "style": "link",
+                  "offsetStart": "none",
+                  "offsetEnd": "none",
+                  "margin": "none"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Hero Guides",
+                  "size": "lg",
+                  "color": "#555555",
+                  "flex": 0,
+                  "weight": "bold"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "Types of skills",
+                    "uri": "https://lss-guide.netlify.app/docs/heroes/skilltypes/slug/"
+                  },
+                  "style": "link",
+                  "offsetStart": "none",
+                  "offsetEnd": "none",
+                  "margin": "none"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "How skill range works",
+                    "uri": "https://lss-guide.netlify.app/docs/heroes/range/slug/"
+                  },
+                  "style": "link",
+                  "offsetStart": "none",
+                  "offsetEnd": "none",
+                  "margin": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "separator",
+          "margin": "xxl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "View more guides at this website:",
+              "size": "sm",
+              "color": "#aaaaaa",
+              "flex": 0,
+              "align": "center"
+            },
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "https://lss-guide.netlify.app/",
+                "uri": "https://lss-guide.netlify.app/"
+              },
+              "style": "link",
+              "color": "#aaaaaa",
+              "height": "sm",
+              "adjustMode": "shrink-to-fit"
+            }
+          ]
+        }
+      ],
+      "backgroundColor": "#d6c7b8"
+    },
+    "styles": {
+      "footer": {
+        "separator": true
+      }
+    }
+  }

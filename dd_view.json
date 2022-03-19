@@ -1,0 +1,337 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/audi1/lssStuff/main/stone-16.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "1:1",
+              "gravity": "center"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "Guild EXP",
+                          "size": "md",
+                          "color": "#ffffff",
+                          "weight": "bold",
+                          "align": "center",
+                          "gravity": "center"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": []
+                    }
+                  ],
+                  "spacing": "xs"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "paddingAll": "20px",
+              "backgroundColor": "#000000B3",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "cornerRadius": "none",
+              "action": {
+                "type": "uri",
+                "label": "guild exp",
+                "uri": "https://media.discordapp.net/attachments/915233558837219378/915571668670357514/IMG_7560.jpg"
+              }
+            }
+          ],
+          "paddingAll": "0px"
+        },
+        "size": "micro"
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/audi1/lssStuff/main/farm-15.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "1:1",
+              "gravity": "center"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "Eden Map",
+                          "size": "md",
+                          "color": "#ffffff",
+                          "weight": "bold",
+                          "align": "center",
+                          "gravity": "center"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": []
+                    }
+                  ],
+                  "spacing": "xs"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "paddingAll": "20px",
+              "backgroundColor": "#000000B3",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "cornerRadius": "none",
+              "action": {
+                "type": "uri",
+                "label": "eden map",
+                "uri": "https://images-ext-2.discordapp.net/external/V-k1zcwmCVI9m0beqNQhzaLFxo6QT9vrtESq6kFDRB8/https/cdn-longterm.mee6.xyz/plugins/commands/images/786109616592650301/a62b32f302b877e685f79736f2c34000e5d16081e8d1d1196d3720bab09b5bd7.jpeg"
+              }
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/audi1/lssStuff/main/town.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "1:1",
+              "gravity": "center"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "Durability & Immunity",
+                          "size": "md",
+                          "color": "#ffffff",
+                          "weight": "bold",
+                          "align": "center",
+                          "gravity": "center",
+                          "wrap": true
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": []
+                    }
+                  ],
+                  "spacing": "xs"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "paddingAll": "20px",
+              "backgroundColor": "#000000B3",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "cornerRadius": "none",
+              "action": {
+                "type": "uri",
+                "label": "dura vs immunity",
+                "uri": "https://images-ext-2.discordapp.net/external/buj_IukY-DkPEtnB3G5ZD99Zh-9HU7qUzD2J6yGVLBU/https/cdn-longterm.mee6.xyz/plugins/commands/images/786109616592650301/89490d899d163b38c2150f2a44ec0bfd274c01a55d25a51893e13c0a48920f80.jpeg"
+              }
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/audi1/lssStuff/main/wood-16.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "1:1",
+              "gravity": "center"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "Tile stats",
+                          "size": "md",
+                          "color": "#ffffff",
+                          "weight": "bold",
+                          "align": "center",
+                          "gravity": "center"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": []
+                    }
+                  ],
+                  "spacing": "xs"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "paddingAll": "20px",
+              "backgroundColor": "#000000B3",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "cornerRadius": "none",
+              "action": {
+                "type": "uri",
+                "label": "tile stats",
+                "uri": "https://images-ext-1.discordapp.net/external/obDNOyTmknaNqIhhQJYFcUu3ug_yc4SnDVQYQkLs04M/https/cdn-longterm.mee6.xyz/plugins/commands/images/786109616592650301/69ff0ec6d168ae2b73d76a713daee451564d8b6bd0dc317bcd775c68a86e0ab0.jpeg"
+              }
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/audi1/lssStuff/main/bridge.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "1:1",
+              "gravity": "center"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "DD spec point planner",
+                          "size": "md",
+                          "color": "#ffffff",
+                          "weight": "bold",
+                          "align": "center",
+                          "gravity": "center",
+                          "wrap": true
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": []
+                    }
+                  ],
+                  "spacing": "xs"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "paddingAll": "20px",
+              "backgroundColor": "#000000B3",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "cornerRadius": "none",
+              "action": {
+                "type": "uri",
+                "label": "spec point planner",
+                "uri": "http://mycodezoo.com/lss/en/spec_points_planner.php"
+              }
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      }
+    ]
+  }

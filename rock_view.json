@@ -1,0 +1,45 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/audi1/lssStuff/main/rock.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "1:1",
+          "gravity": "center"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [],
+          "position": "relative",
+          "flex": 1,
+          "justifyContent": "center",
+          "alignItems": "center"
+        },
+        {
+          "type": "text",
+          "text": "Touch me",
+          "position": "absolute",
+          "align": "center",
+          "gravity": "center",
+          "size": "lg",
+          "flex": 5,
+          "margin": "md",
+          "offsetTop": "220px",
+          "offsetStart": "110px",
+          "color": "#FFFFFF",
+          "weight":"bold",
+          "action": {
+            "type": "message",
+            "text": "damn"
+          }
+        }
+      ],
+      "paddingAll": "0px"
+    }
+  }

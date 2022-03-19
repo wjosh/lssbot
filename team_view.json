@@ -1,0 +1,170 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectRatio": "2:2",
+          "aspectMode": "cover",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Felsa",
+              "wrap": true,
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "text",
+              "text": "CFO",
+              "wrap": true,
+              "weight": "bold",
+              "size": "md",
+              "flex": 0
+            }
+          ]
+        },
+        "size": "kilo"
+      },
+      {
+        "type": "bubble",
+        "size": "kilo",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectRatio": "2:2",
+          "aspectMode": "cover",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Audi",
+              "wrap": true,
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "text",
+              "text": "CTO",
+              "wrap": true,
+              "weight": "bold",
+              "size": "md",
+              "flex": 0
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "kilo",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectRatio": "2:2",
+          "aspectMode": "cover",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Lene",
+              "wrap": true,
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "text",
+              "text": "Regional Director, HR",
+              "wrap": true,
+              "weight": "bold",
+              "size": "md",
+              "flex": 0
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "kilo",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectRatio": "2:2",
+          "aspectMode": "cover",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Bacon",
+              "wrap": true,
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "text",
+              "text": "Intern",
+              "wrap": true,
+              "weight": "bold",
+              "size": "md",
+              "flex": 0
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "kilo",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectRatio": "2:2",
+          "aspectMode": "cover",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Eric",
+              "wrap": true,
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "text",
+              "text": "VP, Janitorial Services",
+              "wrap": true,
+              "weight": "bold",
+              "size": "md",
+              "flex": 0
+            }
+          ]
+        }
+      }
+    ]
+  }
